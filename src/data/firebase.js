@@ -1,6 +1,7 @@
 import fbAppli from 'firebase/app';
 import 'firebase/firestore';
 
+
 /******* Ex#3 - Étape B ********************************/ 
 // Ajouter votre objet de configuration Firebase
 const firebaseConfig = {
